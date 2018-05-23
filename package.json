@@ -1,0 +1,10 @@
+{
+  "name": "@mofe/every",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MofeLee <mofe@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ms": "^2.1.1"
+  }
+}
